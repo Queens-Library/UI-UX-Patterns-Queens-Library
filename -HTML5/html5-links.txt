@@ -1,0 +1,18 @@
+Below are some resources I found to help us formulate our coding style and standards for everyone to reference. We will probably want to integrate our thoughts into a section of the app dev group's sharepoint. We may want to suck some of these link references down and keep local copies in a repository somewhere and customize to our liking.
+ 
+Feel free to discuss with myself, and Surinder if you have any questions.
+ 
+Html5 coding standards
+http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+http://www.catswhocode.com/blog/best-practices-for-efficient-html5-coding
+http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/
+http://html5.org/
+http://www.smashingmagazine.com/coding-with-html5-tutorials-guidelines/
+http://www.html5rocks.com/en/resources
+http://isobar-idev.github.io/code-standards/
+http://www.ibm.com/developerworks/library/wa-webstandards/index.html
+http://html5boilerplate.com/
+https://github.com/h5bp/html5-boilerplate/blob/v4.3.0/doc/TOC.md
+http://html5test.com/
+http://www.impressivewebs.com/understanding-html5-validation/
+http://html5.komplett.cc/code/index_en.html
