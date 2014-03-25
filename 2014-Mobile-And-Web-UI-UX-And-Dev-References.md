@@ -70,16 +70,16 @@ http://www.lukew.com/ff?tag=mobilefirst
 From the site: In his presentation at An Event Apart in Washington DC 2011 Ethan Marcotte talked about applying responsive web design principles and workflows to the redesign of a major newspaper Web site. Here's my notes from his talk on The Responsive Designer’s Workflow
 http://www.lukew.com/ff/entry.asp?1433
 
-####[Organizing Mobile Content](http://alistapart.com/article/organizing-mobile)  
-From the site: When it comes to organizing the content and actions on mobile, solid information architecture principles like clear labeling, balanced breadth and depth, and appropriate mental models remain important....
+####[Organizing Mobile Content](http://alistapart.com/article/organizing-mobile)   
+From the site: When it comes to organizing the content and actions on mobile, solid information architecture principles like clear labeling, balanced breadth and depth, and appropriate mental models remain important....  
 http://alistapart.com/article/organizing-mobile
 
 ####[Multi-Device Adaptation vs. Optimization](http://www.lukew.com/ff/entry.asp?1562)  
-From the site: Direct comparisons between multi-device design solutions for the Web often miss the point: each is better suited for particular things. Specifically, responsive Web design is an excellent solution for adapting to the capabilities of any given device....
+From the site: Direct comparisons between multi-device design solutions for the Web often miss the point: each is better suited for particular things. Specifically, responsive Web design is an excellent solution for adapting to the capabilities of any given device....  
 http://www.lukew.com/ff/entry.asp?1562
 
-####[Progressive Enhancement 101: Overview and Best Practices](http://sixrevisions.com/web-development/progressive-enhancement/)  
-From the site: With an ever-growing variety of browsing situations and platforms that must be supported, the concept of progressive enhancement has become a hot topic of conversation. Put simply, progressive enhancement is the technique of building websites with strong foundations so that it’s accessible to the wide range of browsing situations — from mobile devices and netbooks, to desktops and screen-readers...
+####[Progressive Enhancement 101: Overview and Best Practices](http://sixrevisions.com/web-development/progressive-enhancement/)   
+From the site: With an ever-growing variety of browsing situations and platforms that must be supported, the concept of progressive enhancement has become a hot topic of conversation. Put simply, progressive enhancement is the technique of building websites with strong foundations so that it’s accessible to the wide range of browsing situations — from mobile devices and netbooks, to desktops and screen-readers... 
 http://sixrevisions.com/web-development/progressive-enhancement/
 
 ---
