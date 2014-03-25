@@ -108,31 +108,31 @@ From the site: HTML5 compatibility on mobile and tablet browsers with testing on
 http://mobilehtml5.org/
 
 ####Windows General UI principles (Web)
-From the site: Design Principles | Refer to these principles to help you design the user experience for your Windows® programs....
+From the site: Design Principles | Refer to these principles to help you design the user experience for your Windows® programs....  
 http://msdn.microsoft.com/en-us/library/windows/desktop/aa511328.aspx
 
 ####Good Basics for designing Web Applications from Microsoft
-From the site: Chapter 21: Designing Web Applications (Overview) | In this chapter, you will learn the general design considerations and key attributes for a Web application. This includes the guidelines for a layered structure; guidelines for performance, security, and deployment; and the key patterns and technology considerations....
+From the site: Chapter 21: Designing Web Applications (Overview) | In this chapter, you will learn the general design considerations and key attributes for a Web application. This includes the guidelines for a layered structure; guidelines for performance, security, and deployment; and the key patterns and technology considerations....  
 http://msdn.microsoft.com/en-us/library/ee658099.aspx
 
 ####Designing User Interfaces For Business Web Applications
-From the site: Business Web application design is too often neglected. I see a lot of applications that don’t meet the needs of either businesses or users and thus contribute to a loss of profit and poor user experience....
+From the site: Business Web application design is too often neglected. I see a lot of applications that don’t meet the needs of either businesses or users and thus contribute to a loss of profit and poor user experience....  
 http://uxdesign.smashingmagazine.com/2010/02/25/designing-user-interfaces-for-business-web-applications/
 
 ####UI Design For A Mobile World: Top Mobile UX Design Approaches You Should Take
-From the site: What I want to look at is how we  as mobile user experience designers make highly complex apps friendly to use. So let’s break down some design patterns and see what happens when we try to make them smarter, not just smaller...
+From the site: What I want to look at is how we  as mobile user experience designers make highly complex apps friendly to use. So let’s break down some design patterns and see what happens when we try to make them smarter, not just smaller...  
 http://www.uidesignguide.com/2013/12/26/ui-design-for-a-mobile-world-top-mobile-ux-approaches-you-should-take/
 
 ####How to Create the Best User Experience for Your Application
-From the site: Dax Pandhi discusses how to implement intuitive user interface and user experience design principles into your Windows applications....
+From the site: Dax Pandhi discusses how to implement intuitive user interface and user experience design principles into your Windows applications....  
 http://msdn.microsoft.com/en-us/library/aa468595.aspx
 
 ####UI Design Guidelines For Responsive Design
-From the site: Some UI guidelines and tips to consider when designing a website to make it cross-device friendly and responsive. The web development community has come up with endless solutions, best practices, and tools for coding a responsive design with ease....
+From the site: Some UI guidelines and tips to consider when designing a website to make it cross-device friendly and responsive. The web development community has come up with endless solutions, best practices, and tools for coding a responsive design with ease....  
 http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/
 
 ####Isobar | Front-end Code Standards & Best Practices
-From the site: Overview | This document contains guidelines for web applications built by the Creative Technology (front end engineering) practice of Isobar. It is to be readily available to anyone who wishes to check the iterative progress of our best practices....
+From the site: Overview | This document contains guidelines for web applications built by the Creative Technology (front end engineering) practice of Isobar. It is to be readily available to anyone who wishes to check the iterative progress of our best practices....  
 http://isobar-idev.github.io/code-standards/#_pillars_of_front_end_development
 
 ---
@@ -140,75 +140,75 @@ http://isobar-idev.github.io/code-standards/#_pillars_of_front_end_development
 ###Section 1.5 : Various UI Guideline Lists
 
 
-####Top 10 Application-Design Mistakes
-From the site: Any of these three mistakes will doom your app, and yet I still can't tell you what to do. What's the right problem? What are the right features? What complicating curlicues can safely be cut from those features? For each domain and user category, these questions have specific and very different answers...
+####Top 10 Application-Design Mistakes  
+From the site: Any of these three mistakes will doom your app, and yet I still can't tell you what to do. What's the right problem? What are the right features? What complicating curlicues can safely be cut from those features? For each domain and user category, these questions have specific and very different answers...   
 http://www.nngroup.com/articles/top-10-application-design-mistakes/
 
 
-###10 Important UI Design Considerations for Web Apps
-From the site: Many of these design considerations might seem superficially obvious, but once you’re going through the design and development process, it’s easy to forget about them because...
+####10 Important UI Design Considerations for Web Apps  
+From the site: Many of these design considerations might seem superficially obvious, but once you’re going through the design and development process, it’s easy to forget about them because...  
 http://sixrevisions.com/user-interface/10-important-ui-design-considerations-for-web-apps/
 
 
-###Best Application Designs (2012)
-From the site: Summary: Winning app UIs include domain-specific solutions that allow humans to focus on deeper issues while the software takes care of the mechanics....
+####Best Application Designs (2012)  
+From the site: Summary: Winning app UIs include domain-specific solutions that allow humans to focus on deeper issues while the software takes care of the mechanics....  
 http://www.nngroup.com/articles/best-application-designs/
 
 
-###A collection of UI guidelines
+####A collection of UI guidelines  
 http://www.idemployee.id.tue.nl/g.w.m.rauterberg/lecturenotes/ui-guide-line-collection.htm
 
 
-###10 Essential Web Application Usability Guidelines
-From the site: So how do you maximize usability in your web app? In this article we share 10 Web Application Usability Guidelines that we feel are essential....
+####10 Essential Web Application Usability Guidelines  
+From the site: So how do you maximize usability in your web app? In this article we share 10 Web Application Usability Guidelines that we feel are essential....  
 http://speckyboy.com/2011/03/31/10-essential-web-application-usability-guidelines/
 
 
-###10 User Interface Design Fundamentals
-From the site: ‘Staying out of the way’ means not distracting your users. Rather, good UIs let your users complete goals. The result? A reduction in training and support costs, and happier, satisfied and highly engaged users.When getting started on a new interface, make sure to remember these fundamentals....
+####10 User Interface Design Fundamentals  
+From the site: ‘Staying out of the way’ means not distracting your users. Rather, good UIs let your users complete goals. The result? A reduction in training and support costs, and happier, satisfied and highly engaged users.When getting started on a new interface, make sure to remember these fundamentals....  
 http://blog.teamtreehouse.com/10-user-interface-design-fundamentals
 
-###The Apple Standard: 6 Guiding Principles for a Better Web Experience
-From the site: If you work on websites, create apps, or design digital products, apply these rules to your own work… and you could inspire the same emotional attachment around your brand as Apple does around theirs....
+####The Apple Standard: 6 Guiding Principles for a Better Web Experience
+From the site: If you work on websites, create apps, or design digital products, apply these rules to your own work… and you could inspire the same emotional attachment around your brand as Apple does around theirs....  
 http://blog.crazyegg.com/2013/08/07/better-web-experience/
 
 
-##Section 1.6 : Developer Resources for Social Media Brands
+###Section 1.6 : Developer Resources for Social Media Brands
 
-###Facebook Developer Standards
-From the site: App Center Guidelines | The App Center is a central place on Facebook for people to find great social apps. It’s designed to show off high quality apps and great user experiences. It provides an effective channel to grow apps on Facebook, including mobile apps and websites that use Facebook Login….We encourage all developers to create an App Details page so that the app appears on Facebook....
+####Facebook Developer Standards
+From the site: App Center Guidelines | The App Center is a central place on Facebook for people to find great social apps. It’s designed to show off high quality apps and great user experiences. It provides an effective channel to grow apps on Facebook, including mobile apps and websites that use Facebook Login….We encourage all developers to create an App Details page so that the app appears on Facebook....  
 https://developers.facebook.com/docs/games/appcenter/guidelines
 
-###Twitter Display Requirements
-From the site: The power of Twitter is in the network of people using it, and its ability to bring users closer to what's most meaningful to them. When we first launched, Tweets were simple 140 character updates. However, as Twitter evolved, so too has the way that users view and interact with Tweets….
+####Twitter Display Requirements
+From the site: The power of Twitter is in the network of people using it, and its ability to bring users closer to what's most meaningful to them. When we first launched, Tweets were simple 140 character updates. However, as Twitter evolved, so too has the way that users view and interact with Tweets….  
 https://dev.twitter.com/terms/display-requirements
 
-###Yahoo Design Pattern Library
-From the site: This library shares user interface patterns with the web design and development community...
+####Yahoo Design Pattern Library
+From the site: This library shares user interface patterns with the web design and development community...  
 http://developer.yahoo.com/ypatterns/
 
-###Spotify (Strictly for guide structure reference)
-From the site: This page is provided for existing Spotify Apps partners only. It describes our requirements on the design and behavior of apps submitted to Spotify….
+####Spotify (Strictly for guide structure reference)
+From the site: This page is provided for existing Spotify Apps partners only. It describes our requirements on the design and behavior of apps submitted to Spotify….  
 https://developer.spotify.com/technologies/apps/guidelines/design/
 
 
 ---
 
-##Section 1.7 : Government Guide
+###Section 1.7 : Government Guide
 
-###Usability.Gov
-From the site: User Interface Design Basics | User Interface (UI) Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. UI brings together concepts from interaction design, visual design, and information architecture....
+####Usability.Gov
+From the site: User Interface Design Basics | User Interface (UI) Design focuses on anticipating what users might need to do and ensuring that the interface has elements that are easy to access, understand, and use to facilitate those actions. UI brings together concepts from interaction design, visual design, and information architecture....  
 http://www.usability.gov/what-and-why/user-interface-design.html
 
-###Access Board Guidelines & Standards
-From the site: Communications & IT | Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Telecommunications Act....
+####Access Board Guidelines & Standards
+From the site: Communications & IT | Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Telecommunications Act....   
 http://www.access-board.gov/guidelines-and-standards
 
-###CIPA Act Guide
-From the site: The Children’s Internet Protection Act (CIPA) was enacted by Congress in 2000 to address concerns about children’s access to obscene or harmful content over the Internet. CIPA imposes certain requirements on schools or libraries that receive discounts for Internet access or internal connections through the E-rate program – a program that makes certain communications services and products more affordable for eligible schools and libraries....
+####CIPA Act Guide
+From the site: The Children’s Internet Protection Act (CIPA) was enacted by Congress in 2000 to address concerns about children’s access to obscene or harmful content over the Internet. CIPA imposes certain requirements on schools or libraries that receive discounts for Internet access or internal connections through the E-rate program – a program that makes certain communications services and products more affordable for eligible schools and libraries....  
 http://www.fcc.gov/guides/childrens-internet-protection-act
 
 
-###EPA Accessibility
-EPA is responsible for ensuring that all electronic and information technology is accessible to disabled users. This involves designing Web sites, software, hardware, video and multimedia, and telecommunications to meet Section 508 electronic and information technology accessibility standards, as well as incorporating other techniques to ensure accessibility. The resources provided in this section include standards, guidelines, design tips, tools, and other information to help you design products that are accessible to all users....
+####EPA Accessibility
+EPA is responsible for ensuring that all electronic and information technology is accessible to disabled users. This involves designing Web sites, software, hardware, video and multimedia, and telecommunications to meet Section 508 electronic and information technology accessibility standards, as well as incorporating other techniques to ensure accessibility. The resources provided in this section include standards, guidelines, design tips, tools, and other information to help you design products that are accessible to all users....  
 http://www.epa.gov/inter508/standards/index.htm
