@@ -79,7 +79,7 @@ From the site: Direct comparisons between multi-device design solutions for the 
 http://www.lukew.com/ff/entry.asp?1562
 
 ####[Progressive Enhancement 101: Overview and Best Practices](http://sixrevisions.com/web-development/progressive-enhancement/)   
-From the site: With an ever-growing variety of browsing situations and platforms that must be supported, the concept of progressive enhancement has become a hot topic of conversation. Put simply, progressive enhancement is the technique of building websites with strong foundations so that it’s accessible to the wide range of browsing situations — from mobile devices and netbooks, to desktops and screen-readers... 
+From the site: With an ever-growing variety of browsing situations and platforms that must be supported, the concept of progressive enhancement has become a hot topic of conversation. Put simply, progressive enhancement is the technique of building websites with strong foundations so that it’s accessible to the wide range of browsing situations — from mobile devices and netbooks, to desktops and screen-readers...   
 http://sixrevisions.com/web-development/progressive-enhancement/
 
 ---
@@ -87,16 +87,16 @@ http://sixrevisions.com/web-development/progressive-enhancement/
 ###Section 1.3 : Assorted Guidelines
 
 
-####[UI Guidelines for mobile and tablet web app design](http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design)
-From the site:  Here, you will find guidelines, samples, tips, and descriptions of common mistakes. Many of the guidelines focus on native application development, but we can apply most parts of them to mobile web design too.
+####[UI Guidelines for mobile and tablet web app design](http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design)  
+From the site:  Here, you will find guidelines, samples, tips, and descriptions of common mistakes. Many of the guidelines focus on native application development, but we can apply most parts of them to mobile web design too.  
 http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design
 
-####[Official Usability, User Experience & User Interface Guidelines From Companies](http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/)
-From the site: Guidelines are considered to be the best resource that designers and developer can use to ensure that the applications and web sites they produce are usable. Operating systems, devices, and development environments are very specific in nature. Because of this, their manufacturers have devised their own set of usability, user experience and user interface guidelines....
+####[Official Usability, User Experience & User Interface Guidelines From Companies](http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/)  
+From the site: Guidelines are considered to be the best resource that designers and developer can use to ensure that the applications and web sites they produce are usable. Operating systems, devices, and development environments are very specific in nature. Because of this, their manufacturers have devised their own set of usability, user experience and user interface guidelines....  
 http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/
 
-####[Human Interface Guidelines for Elementary OS](http://elementaryos.org/docs/human-interface-guidelines)
-From the site: These guidelines are designed to help developers and designers create a beautifully consistent experience on the elementary desktop. They were written for interface designers, graphic artists and software developers who will be working on elementary OS...
+####[Human Interface Guidelines for Elementary OS](http://elementaryos.org/docs/human-interface-guidelines)  
+From the site: These guidelines are designed to help developers and designers create a beautifully consistent experience on the elementary desktop. They were written for interface designers, graphic artists and software developers who will be working on elementary OS...  
 http://elementaryos.org/docs/human-interface-guidelines
 
 ---
@@ -104,30 +104,30 @@ http://elementaryos.org/docs/human-interface-guidelines
 ###Section 1.4 : General Basics
 
 ####Mobile HTML5
-From the site: HTML5 compatibility on mobile and tablet browsers with testing on real devices....
-http://mobilehtml5.org/
+From the site: HTML5 compatibility on mobile and tablet browsers with testing on real devices....  
+http://mobilehtml5.org/  
 
 ####Windows General UI principles (Web)
-From the site: Design Principles | Refer to these principles to help you design the user experience for your Windows® programs....  
+From the site: Design Principles | Refer to these principles to help you design the user experience for your Windows® programs....    
 http://msdn.microsoft.com/en-us/library/windows/desktop/aa511328.aspx
 
-####Good Basics for designing Web Applications from Microsoft
-From the site: Chapter 21: Designing Web Applications (Overview) | In this chapter, you will learn the general design considerations and key attributes for a Web application. This includes the guidelines for a layered structure; guidelines for performance, security, and deployment; and the key patterns and technology considerations....  
+####Good Basics for designing Web Applications from Microsoft  
+From the site: Chapter 21: Designing Web Applications (Overview) | In this chapter, you will learn the general design considerations and key attributes for a Web application. This includes the guidelines for a layered structure; guidelines for performance, security, and deployment; and the key patterns and technology considerations....    
 http://msdn.microsoft.com/en-us/library/ee658099.aspx
 
-####Designing User Interfaces For Business Web Applications
+####Designing User Interfaces For Business Web Applications  
 From the site: Business Web application design is too often neglected. I see a lot of applications that don’t meet the needs of either businesses or users and thus contribute to a loss of profit and poor user experience....  
 http://uxdesign.smashingmagazine.com/2010/02/25/designing-user-interfaces-for-business-web-applications/
 
-####UI Design For A Mobile World: Top Mobile UX Design Approaches You Should Take
-From the site: What I want to look at is how we  as mobile user experience designers make highly complex apps friendly to use. So let’s break down some design patterns and see what happens when we try to make them smarter, not just smaller...  
+####UI Design For A Mobile World: Top Mobile UX Design Approaches You Should Take  
+From the site: What I want to look at is how we  as mobile user experience designers make highly complex apps friendly to use. So let’s break down some design patterns and see what happens when we try to make them smarter, not just smaller...    
 http://www.uidesignguide.com/2013/12/26/ui-design-for-a-mobile-world-top-mobile-ux-approaches-you-should-take/
 
-####How to Create the Best User Experience for Your Application
+####How to Create the Best User Experience for Your Application  
 From the site: Dax Pandhi discusses how to implement intuitive user interface and user experience design principles into your Windows applications....  
 http://msdn.microsoft.com/en-us/library/aa468595.aspx
 
-####UI Design Guidelines For Responsive Design
+####UI Design Guidelines For Responsive Design   
 From the site: Some UI guidelines and tips to consider when designing a website to make it cross-device friendly and responsive. The web development community has come up with endless solutions, best practices, and tools for coding a responsive design with ease....  
 http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/
 
