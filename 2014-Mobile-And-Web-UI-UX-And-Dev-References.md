@@ -23,17 +23,17 @@ In this document:
 ###[Apple UI Interface Guidelines](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/)  
 From the site: Create a superlative user experience that's founded on Apple's design principles and guidelines...
 
-https://developer.apple.com/design/tips/
-https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/
+https://developer.apple.com/design/tips/  
+https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/  
 
 ###[Apple App Review Guidelines](https://developer.apple.com/app-store/review/)    
 From the site: We review all apps submitted to the App Store and Mac App Store to ensure they are reliable, perform as expected, and are free of offensive material...
-https://developer.apple.com/app-store/review/
+https://developer.apple.com/app-store/review/  
 
 ###[Android Developer Design Guidelines](http://developer.android.com/design/index.html)  
 From the site: Your place for learning how to design exceptional Android apps...
-http://developer.android.com/design/index.html
-http://developer.android.com/guide/topics/ui/index.html
+http://developer.android.com/design/index.html  
+http://developer.android.com/guide/topics/ui/index.html  
 
 ###[Windows 8 Mobile](http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff967556(v=vs.105).aspx)  
 From the site: User interface for Windows Phone (Windows Phone 8 | Windows Phone OS 7.1) : In this section you can learn how to design the best UI for your Windows Phone app....
@@ -50,6 +50,7 @@ http://msdn.microsoft.com/en-us/windows/desktop/aa511258.aspx
 ###[Windows 8 Store Apps](http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx)  
 From the site: Index of UX guidelines for Windows Store apps | Use this index to quickly find the user experience (UX) guidelines that can help you create a great Windows Store app. If you haven't already, you should start by reading Meet Windows Store apps and Planning Windows Store apps....
 http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx
+
 
 ---
 
