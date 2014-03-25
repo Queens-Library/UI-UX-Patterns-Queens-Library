@@ -5,17 +5,17 @@ I’m currently pulling together a Web application and Mobile UI/UX Standards an
 
 This list will evolve over time. Please help me police broken links and changes to these sites in the comments or via email.
 
+---
+	In this document:  
+     	* Section 1.1 : Trending Company or OS Platform Guidelines  
+     	* Section 1.2 : Mobile First, Multi-Device Design, Responsive, Adaptive, Progressive Enhancement    
+     	* Section 1.3 : Assorted Guidelines  
+     	* Section 1.4 : General Basics  
+     	* Section 1.5 : Various UI Guideline Lists  
+     	* Section 1.6 : Developer Resources for Social Media Brands  
+     	* Section 1.7 : Government Guide    
 
-In this document:
-     Section 1.1 : Trending Company or OS Platform Guidelines
-     Section 1.2 : Mobile First, Multi-Device Design, Responsive, Adaptive, Progressive Enhancement
-     Section 1.3 : Assorted Guidelines
-     Section 1.4 : General Basics
-     Section 1.5 : Various UI Guideline Lists
-     Section 1.6 : Developer Resources for Social Media Brands
-     Section 1.7 : Government Guide
-
-
+---
 
 
 ###Section 1.1 : Trending Company or OS Platform Guidelines
@@ -54,7 +54,7 @@ http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx
   
 ---
   
-    
+
 ##Section 1.2 : Mobile First, Multi-Device Design, Responsive, Adaptive, Progressive Enhancement
 
 
