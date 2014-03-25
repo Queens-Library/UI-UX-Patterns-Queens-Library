@@ -26,121 +26,121 @@ https://developer.apple.com/design/tips/
 https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/  
 
 ####[Apple App Review Guidelines](https://developer.apple.com/app-store/review/)    
-From the site: We review all apps submitted to the App Store and Mac App Store to ensure they are reliable, perform as expected, and are free of offensive material...
+From the site: We review all apps submitted to the App Store and Mac App Store to ensure they are reliable, perform as expected, and are free of offensive material...  
 https://developer.apple.com/app-store/review/  
 
 ####[Android Developer Design Guidelines](http://developer.android.com/design/index.html)  
-From the site: Your place for learning how to design exceptional Android apps...
-http://developer.android.com/design/index.html  
+From the site: Your place for learning how to design exceptional Android apps...  
+http://developer.android.com/design/index.html    
 http://developer.android.com/guide/topics/ui/index.html  
 
 ####[Windows 8 Mobile](http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff967556(v=vs.105).aspx)  
-From the site: User interface for Windows Phone (Windows Phone 8 | Windows Phone OS 7.1) : In this section you can learn how to design the best UI for your Windows Phone app....
+From the site: User interface for Windows Phone (Windows Phone 8 | Windows Phone OS 7.1) : In this section you can learn how to design the best UI for your Windows Phone app....  
 http://msdn.microsoft.com/en-us/library/windowsphone/develop/ff967556(v=vs.105).aspx
 
 ####[Nokia UI Guidelines](http://developer.nokia.com/resources/library/nokia-x-ui/index.html)  
-From the site: This section describes the essential main UI features and functionality of Nokia X software platform. It briefly discusses Main screens; Fastlane and Apps menu…
+From the site: This section describes the essential main UI features and functionality of Nokia X software platform. It briefly discusses Main screens; Fastlane and Apps menu…  
 http://developer.nokia.com/resources/library/nokia-x-ui/index.html
 
 ####[Windows Desktop](http://msdn.microsoft.com/en-us/windows/desktop/aa511258.aspx)  
-From the site: Design apps for the Windows desktop | Learn how to design beautiful and functional desktop apps that work great with Windows....
+From the site: Design apps for the Windows desktop | Learn how to design beautiful and functional desktop apps that work great with Windows....  
 http://msdn.microsoft.com/en-us/windows/desktop/aa511258.aspx
 
 ####[Windows 8 Store Apps](http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx)  
-From the site: Index of UX guidelines for Windows Store apps | Use this index to quickly find the user experience (UX) guidelines that can help you create a great Windows Store app. If you haven't already, you should start by reading Meet Windows Store apps and Planning Windows Store apps....
+From the site: Index of UX guidelines for Windows Store apps | Use this index to quickly find the user experience (UX) guidelines that can help you create a great Windows Store app. If you haven't already, you should start by reading Meet Windows Store apps and Planning Windows Store apps....  
 http://msdn.microsoft.com/en-us/library/windows/apps/hh465424.aspx  
   
   
 ---
   
 
-##Section 1.2 : Mobile First, Multi-Device Design, Responsive, Adaptive, Progressive Enhancement
+###Section 1.2 : Mobile First, Multi-Device Design, Responsive, Adaptive, Progressive Enhancement
 
 
-###[Multi-Device Web Design: An Evolution](http://www.lukew.com/ff/entry.asp?1436) 
-From the site: As mobile devices have continued to evolve and spread, so has the process of designing and developing Web sites and services that work across a diverse range of devices. From responsive Web design to future friendly thinking, here's how I've seen things evolve over the past year and a half.
+####[Multi-Device Web Design: An Evolution](http://www.lukew.com/ff/entry.asp?1436) 
+From the site: As mobile devices have continued to evolve and spread, so has the process of designing and developing Web sites and services that work across a diverse range of devices. From responsive Web design to future friendly thinking, here's how I've seen things evolve over the past year and a half...  
 http://www.lukew.com/ff/entry.asp?1436
 
-###[Mobile-First Responsive Web Design](http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/)  
+####[Mobile-First Responsive Web Design](http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/)  
 From the site: Mobile-First Responsive Web Design is a combination of philosophies/strategies, and ultimately boils down to a broader application of good ol’ web best practices. As the digital landscape gets increasingly complex, we need to design experiences that work across the entire spectrum of digital devices....
 http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/
 http://www.lukew.com/ff?tag=mobilefirst
 
-###[An Event Apart: The Responsive Designer’s Workflow](http://www.lukew.com/ff/entry.asp?1433)  
+####[An Event Apart: The Responsive Designer’s Workflow](http://www.lukew.com/ff/entry.asp?1433)  
 From the site: In his presentation at An Event Apart in Washington DC 2011 Ethan Marcotte talked about applying responsive web design principles and workflows to the redesign of a major newspaper Web site. Here's my notes from his talk on The Responsive Designer’s Workflow
 http://www.lukew.com/ff/entry.asp?1433
 
-###[Organizing Mobile Content](http://alistapart.com/article/organizing-mobile)  
+####[Organizing Mobile Content](http://alistapart.com/article/organizing-mobile)  
 From the site: When it comes to organizing the content and actions on mobile, solid information architecture principles like clear labeling, balanced breadth and depth, and appropriate mental models remain important....
 http://alistapart.com/article/organizing-mobile
 
-###[Multi-Device Adaptation vs. Optimization](http://www.lukew.com/ff/entry.asp?1562)  
+####[Multi-Device Adaptation vs. Optimization](http://www.lukew.com/ff/entry.asp?1562)  
 From the site: Direct comparisons between multi-device design solutions for the Web often miss the point: each is better suited for particular things. Specifically, responsive Web design is an excellent solution for adapting to the capabilities of any given device....
 http://www.lukew.com/ff/entry.asp?1562
 
-###[Progressive Enhancement 101: Overview and Best Practices](http://sixrevisions.com/web-development/progressive-enhancement/)  
+####[Progressive Enhancement 101: Overview and Best Practices](http://sixrevisions.com/web-development/progressive-enhancement/)  
 From the site: With an ever-growing variety of browsing situations and platforms that must be supported, the concept of progressive enhancement has become a hot topic of conversation. Put simply, progressive enhancement is the technique of building websites with strong foundations so that it’s accessible to the wide range of browsing situations — from mobile devices and netbooks, to desktops and screen-readers...
 http://sixrevisions.com/web-development/progressive-enhancement/
 
 ---
 
-##Section 1.3 : Assorted Guidelines
+###Section 1.3 : Assorted Guidelines
 
 
-###[UI Guidelines for mobile and tablet web app design](http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design)
+####[UI Guidelines for mobile and tablet web app design](http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design)
 From the site:  Here, you will find guidelines, samples, tips, and descriptions of common mistakes. Many of the guidelines focus on native application development, but we can apply most parts of them to mobile web design too.
 http://www.mobilexweb.com/blog/ui-guidelines-mobile-tablet-design
 
-###[Official Usability, User Experience & User Interface Guidelines From Companies](http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/)
+####[Official Usability, User Experience & User Interface Guidelines From Companies](http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/)
 From the site: Guidelines are considered to be the best resource that designers and developer can use to ensure that the applications and web sites they produce are usable. Operating systems, devices, and development environments are very specific in nature. Because of this, their manufacturers have devised their own set of usability, user experience and user interface guidelines....
 http://usabilitygeek.com/official-usability-user-experience-user-interface-guidelines-from-companies/
 
-###[Human Interface Guidelines for Elementary OS](http://elementaryos.org/docs/human-interface-guidelines)
+####[Human Interface Guidelines for Elementary OS](http://elementaryos.org/docs/human-interface-guidelines)
 From the site: These guidelines are designed to help developers and designers create a beautifully consistent experience on the elementary desktop. They were written for interface designers, graphic artists and software developers who will be working on elementary OS...
 http://elementaryos.org/docs/human-interface-guidelines
 
 ---
 
-##Section 1.4 : General Basics
+###Section 1.4 : General Basics
 
-###Mobile HTML5
+####Mobile HTML5
 From the site: HTML5 compatibility on mobile and tablet browsers with testing on real devices....
 http://mobilehtml5.org/
 
-###Windows General UI principles (Web)
+####Windows General UI principles (Web)
 From the site: Design Principles | Refer to these principles to help you design the user experience for your Windows® programs....
 http://msdn.microsoft.com/en-us/library/windows/desktop/aa511328.aspx
 
-###Good Basics for designing Web Applications from Microsoft
+####Good Basics for designing Web Applications from Microsoft
 From the site: Chapter 21: Designing Web Applications (Overview) | In this chapter, you will learn the general design considerations and key attributes for a Web application. This includes the guidelines for a layered structure; guidelines for performance, security, and deployment; and the key patterns and technology considerations....
 http://msdn.microsoft.com/en-us/library/ee658099.aspx
 
-###Designing User Interfaces For Business Web Applications
+####Designing User Interfaces For Business Web Applications
 From the site: Business Web application design is too often neglected. I see a lot of applications that don’t meet the needs of either businesses or users and thus contribute to a loss of profit and poor user experience....
 http://uxdesign.smashingmagazine.com/2010/02/25/designing-user-interfaces-for-business-web-applications/
 
-###UI Design For A Mobile World: Top Mobile UX Design Approaches You Should Take
+####UI Design For A Mobile World: Top Mobile UX Design Approaches You Should Take
 From the site: What I want to look at is how we  as mobile user experience designers make highly complex apps friendly to use. So let’s break down some design patterns and see what happens when we try to make them smarter, not just smaller...
 http://www.uidesignguide.com/2013/12/26/ui-design-for-a-mobile-world-top-mobile-ux-approaches-you-should-take/
 
-###How to Create the Best User Experience for Your Application
+####How to Create the Best User Experience for Your Application
 From the site: Dax Pandhi discusses how to implement intuitive user interface and user experience design principles into your Windows applications....
 http://msdn.microsoft.com/en-us/library/aa468595.aspx
 
-###UI Design Guidelines For Responsive Design
+####UI Design Guidelines For Responsive Design
 From the site: Some UI guidelines and tips to consider when designing a website to make it cross-device friendly and responsive. The web development community has come up with endless solutions, best practices, and tools for coding a responsive design with ease....
 http://tympanus.net/codrops/2013/01/21/ui-design-guidelines-for-responsive-design/
 
-###Isobar | Front-end Code Standards & Best Practices
+####Isobar | Front-end Code Standards & Best Practices
 From the site: Overview | This document contains guidelines for web applications built by the Creative Technology (front end engineering) practice of Isobar. It is to be readily available to anyone who wishes to check the iterative progress of our best practices....
 http://isobar-idev.github.io/code-standards/#_pillars_of_front_end_development
 
 ---
 
-##Section 1.5 : Various UI Guideline Lists
+###Section 1.5 : Various UI Guideline Lists
 
 
-###Top 10 Application-Design Mistakes
+####Top 10 Application-Design Mistakes
 From the site: Any of these three mistakes will doom your app, and yet I still can't tell you what to do. What's the right problem? What are the right features? What complicating curlicues can safely be cut from those features? For each domain and user category, these questions have specific and very different answers...
 http://www.nngroup.com/articles/top-10-application-design-mistakes/
 
