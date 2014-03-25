@@ -21,13 +21,13 @@ In this document:
 Section 1.1 : Trending Company or OS Platform Guidelines
 
 
-[Apple UI Interface Guidelines](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/)
+[Apple UI Interface Guidelines](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/)  
 From the site: Create a superlative user experience that's founded on Apple's design principles and guidelines...
 
 https://developer.apple.com/design/tips/
 https://developer.apple.com/library/ios/documentation/userexperience/conceptual/mobilehig/
 
-[Apple App Review Guidelines](https://developer.apple.com/app-store/review/)
+[Apple App Review Guidelines](https://developer.apple.com/app-store/review/)  
 From the site: We review all apps submitted to the App Store and Mac App Store to ensure they are reliable, perform as expected, and are free of offensive material...
 https://developer.apple.com/app-store/review/
 
