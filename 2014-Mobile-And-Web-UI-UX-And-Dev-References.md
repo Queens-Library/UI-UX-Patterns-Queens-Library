@@ -62,7 +62,7 @@ From the site: As mobile devices have continued to evolve and spread, so has the
 http://www.lukew.com/ff/entry.asp?1436
 
 ####[Mobile-First Responsive Web Design](http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/)  
-From the site: Mobile-First Responsive Web Design is a combination of philosophies/strategies, and ultimately boils down to a broader application of good ol’ web best practices. As the digital landscape gets increasingly complex, we need to design experiences that work across the entire spectrum of digital devices....
+From the site: Mobile-First Responsive Web Design is a combination of philosophies/strategies, and ultimately boils down to a broader application of good ol’ web best practices. As the digital landscape gets increasingly complex, we need to design experiences that work across the entire spectrum of digital devices....  
 http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/  
 http://www.lukew.com/ff?tag=mobilefirst
 
