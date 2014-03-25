@@ -1,4 +1,3 @@
-
 2014 Mobile & Web UI/UX References & Developer Guidelines (Major Platforms) V1:3.24.2014
 
 Developing a “one-stop" site for UI/UX Reference and Developer Guidelines is a major project, but it’s necessary task when you’re dealing with enterprise-level software development team. 
